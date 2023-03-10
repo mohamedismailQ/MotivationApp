@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Motivation App</string>
+    <string name="string1">You can do it anyway</string>
+    <string name="string2">Never tire of learning from error</string>
+    <string name="string3">You will go through more than that, learn to overcome it</string>
+    <string name="string4">Don\'t worry you will succeed</string>
+    <string name="string5">The continuity of your attempt means the inevitability of your arrival</string>
+    <string name="string6">You will get what you want, be patient</string>
+    <string name="string7">You are doing very well</string>
+    <string name="string8">You can not give up now you are closer to success</string>
+    <string name="string9">You miss touching your success, rest</string>
+    <string name="string10">Remember that time is important</string>
+    <string name="string11">Every look up must equal a look back, the sun goes down to shine tomorrow</string>
+
+</resources>
